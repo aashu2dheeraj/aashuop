@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Xdarnav/ArnavXMusic"
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ilexupdates")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/link_copied")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mystudytownaashusir1")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/mystudytownaashusir")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
