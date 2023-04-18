@@ -6,7 +6,7 @@
 🧜‍♀️ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴀʀɴᴀᴠ Music ʙᴏᴛ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ 💘🥀
 • - - - -- - ☆- - -  - - •• - - - - - ☆- - - - - •
 
-<h2 align="centre">---- ᴀʀɴᴀᴠ ✘ ᴍᴜsɪᴄ ---- </h2>
+<h2 align="centre">---- AASHU X MUSIC ---- </h2>
 
 
 <p align="center"><a href="https://t.me/link_copied"><img src="https://telegra.ph/file/0e8daac7b741742416fc4.jpg" width="300"></a></p>
