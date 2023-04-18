@@ -9,7 +9,7 @@
 <h2 align="centre">---- ᴀʀɴᴀᴠ ✘ ᴍᴜsɪᴄ ---- </h2>
 
 
-<p align="center"><a href="https://t.me/link_copied"><img src="https://telegra.ph/file/6dab0d3105e7410ffbd8d.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/link_copied"><img src="https://telegra.ph/file/0e8daac7b741742416fc4.jpg" width="300"></a></p>
 <p align="center">
     
 
